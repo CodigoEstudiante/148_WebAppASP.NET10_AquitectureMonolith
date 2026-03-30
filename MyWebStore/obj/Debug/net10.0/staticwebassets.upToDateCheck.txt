@@ -1,0 +1,325 @@
+wwwroot\css\site.css
+wwwroot\favicon.ico
+wwwroot\js\site.js
+wwwroot\lib\avalynx-loader\dist\js\avalynx-loader.esm.js
+wwwroot\lib\avalynx-loader\dist\js\avalynx-loader.esm.min.js
+wwwroot\lib\avalynx-loader\dist\js\avalynx-loader.js
+wwwroot\lib\avalynx-loader\dist\js\avalynx-loader.min.js
+wwwroot\lib\avalynx-loader\LICENSE
+wwwroot\lib\avalynx-loader\package.json
+wwwroot\lib\avalynx-loader\README.de.md
+wwwroot\lib\avalynx-loader\README.md
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\datatableJs\datatables.net-buttons-dt\css\buttons.dataTables.min.css
+wwwroot\lib\datatableJs\datatables.net-buttons-dt\js\buttons.dataTables.min.js
+wwwroot\lib\datatableJs\datatables.net-buttons\js\buttons.html5.min.js
+wwwroot\lib\datatableJs\datatables.net-buttons\js\buttons.print.min.js
+wwwroot\lib\datatableJs\datatables.net-buttons\js\dataTables.buttons.min.js
+wwwroot\lib\datatableJs\datatables.net-dt\css\dataTables.dataTables.min.css
+wwwroot\lib\datatableJs\datatables.net-dt\License.txt
+wwwroot\lib\datatableJs\datatables.net-responsive-dt\css\responsive.dataTables.min.css
+wwwroot\lib\datatableJs\datatables.net-responsive-dt\js\responsive.dataTables.min.js
+wwwroot\lib\datatableJs\datatables.net-responsive\js\dataTables.responsive.min.js
+wwwroot\lib\datatableJs\datatables.net\js\dataTables.min.js
+wwwroot\lib\datatableJs\datatables.net\License.txt
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\sweetalert2\dist\sweetalert2.all.js
+wwwroot\lib\sweetalert2\dist\sweetalert2.all.min.js
+wwwroot\lib\sweetalert2\dist\sweetalert2.css
+wwwroot\lib\sweetalert2\dist\sweetalert2.esm.all.js
+wwwroot\lib\sweetalert2\dist\sweetalert2.esm.all.min.js
+wwwroot\lib\sweetalert2\dist\sweetalert2.esm.js
+wwwroot\lib\sweetalert2\dist\sweetalert2.esm.min.js
+wwwroot\lib\sweetalert2\dist\sweetalert2.js
+wwwroot\lib\sweetalert2\dist\sweetalert2.min.css
+wwwroot\lib\sweetalert2\dist\sweetalert2.min.js
+wwwroot\lib\sweetalert2\LICENSE
+wwwroot\lib\sweetalert2\package.json
+wwwroot\lib\sweetalert2\README.md
+wwwroot\lib\sweetalert2\src\buttons-handlers.js
+wwwroot\lib\sweetalert2\src\constants.js
+wwwroot\lib\sweetalert2\src\globalState.js
+wwwroot\lib\sweetalert2\src\instanceMethods.js
+wwwroot\lib\sweetalert2\src\instanceMethods\close.js
+wwwroot\lib\sweetalert2\src\instanceMethods\enable-disable-elements.js
+wwwroot\lib\sweetalert2\src\instanceMethods\getInput.js
+wwwroot\lib\sweetalert2\src\instanceMethods\hideLoading.js
+wwwroot\lib\sweetalert2\src\instanceMethods\update.js
+wwwroot\lib\sweetalert2\src\instanceMethods\validation-message.js
+wwwroot\lib\sweetalert2\src\instanceMethods\_destroy.js
+wwwroot\lib\sweetalert2\src\keydown-handler.js
+wwwroot\lib\sweetalert2\src\popup-click-handler.js
+wwwroot\lib\sweetalert2\src\privateMethods.js
+wwwroot\lib\sweetalert2\src\privateProps.js
+wwwroot\lib\sweetalert2\src\staticMethods.js
+wwwroot\lib\sweetalert2\src\staticMethods\argsToParams.js
+wwwroot\lib\sweetalert2\src\staticMethods\bindClickHandler.js
+wwwroot\lib\sweetalert2\src\staticMethods\dom.js
+wwwroot\lib\sweetalert2\src\staticMethods\eventHandlers.js
+wwwroot\lib\sweetalert2\src\staticMethods\fire.js
+wwwroot\lib\sweetalert2\src\staticMethods\mixin.js
+wwwroot\lib\sweetalert2\src\staticMethods\showLoading.js
+wwwroot\lib\sweetalert2\src\staticMethods\timer.js
+wwwroot\lib\sweetalert2\src\SweetAlert.js
+wwwroot\lib\sweetalert2\src\sweetalert2.js
+wwwroot\lib\sweetalert2\src\sweetalert2.scss
+wwwroot\lib\sweetalert2\src\types.js
+wwwroot\lib\sweetalert2\src\utils\aria.js
+wwwroot\lib\sweetalert2\src\utils\classes.js
+wwwroot\lib\sweetalert2\src\utils\defaultInputValidators.js
+wwwroot\lib\sweetalert2\src\utils\DismissReason.js
+wwwroot\lib\sweetalert2\src\utils\dom\domUtils.js
+wwwroot\lib\sweetalert2\src\utils\dom\getters.js
+wwwroot\lib\sweetalert2\src\utils\dom\index.js
+wwwroot\lib\sweetalert2\src\utils\dom\init.js
+wwwroot\lib\sweetalert2\src\utils\dom\inputUtils.js
+wwwroot\lib\sweetalert2\src\utils\dom\parseHtmlToContainer.js
+wwwroot\lib\sweetalert2\src\utils\dom\renderers\render.js
+wwwroot\lib\sweetalert2\src\utils\dom\renderers\renderActions.js
+wwwroot\lib\sweetalert2\src\utils\dom\renderers\renderCloseButton.js
+wwwroot\lib\sweetalert2\src\utils\dom\renderers\renderContainer.js
+wwwroot\lib\sweetalert2\src\utils\dom\renderers\renderContent.js
+wwwroot\lib\sweetalert2\src\utils\dom\renderers\renderFooter.js
+wwwroot\lib\sweetalert2\src\utils\dom\renderers\renderIcon.js
+wwwroot\lib\sweetalert2\src\utils\dom\renderers\renderImage.js
+wwwroot\lib\sweetalert2\src\utils\dom\renderers\renderInput.js
+wwwroot\lib\sweetalert2\src\utils\dom\renderers\renderPopup.js
+wwwroot\lib\sweetalert2\src\utils\dom\renderers\renderProgressSteps.js
+wwwroot\lib\sweetalert2\src\utils\dom\renderers\renderTitle.js
+wwwroot\lib\sweetalert2\src\utils\draggable.js
+wwwroot\lib\sweetalert2\src\utils\EventEmitter.js
+wwwroot\lib\sweetalert2\src\utils\getTemplateParams.js
+wwwroot\lib\sweetalert2\src\utils\iosFix.js
+wwwroot\lib\sweetalert2\src\utils\isNodeEnv.js
+wwwroot\lib\sweetalert2\src\utils\openPopup.js
+wwwroot\lib\sweetalert2\src\utils\params.js
+wwwroot\lib\sweetalert2\src\utils\scrollbar.js
+wwwroot\lib\sweetalert2\src\utils\setParameters.js
+wwwroot\lib\sweetalert2\src\utils\Timer.js
+wwwroot\lib\sweetalert2\src\utils\utils.js
+wwwroot\lib\sweetalert2\sweetalert2.d.ts
+wwwroot\lib\sweetalert2\themes\bootstrap-4.css
+wwwroot\lib\sweetalert2\themes\bootstrap-5.css
+wwwroot\lib\sweetalert2\themes\borderless.css
+wwwroot\lib\sweetalert2\themes\bulma.css
+wwwroot\lib\sweetalert2\themes\embed-iframe.css
+wwwroot\lib\sweetalert2\themes\material-ui.css
+wwwroot\lib\sweetalert2\themes\minimal.css
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\css\site.css
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\favicon.ico
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\js\site.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\avalynx-loader\dist\js\avalynx-loader.esm.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\avalynx-loader\dist\js\avalynx-loader.esm.min.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\avalynx-loader\dist\js\avalynx-loader.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\avalynx-loader\dist\js\avalynx-loader.min.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\avalynx-loader\package.json
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\avalynx-loader\README.de.md
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\avalynx-loader\README.md
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\datatableJs\datatables.net-buttons-dt\css\buttons.dataTables.min.css
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\datatableJs\datatables.net-buttons-dt\js\buttons.dataTables.min.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\datatableJs\datatables.net-buttons\js\buttons.html5.min.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\datatableJs\datatables.net-buttons\js\buttons.print.min.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\datatableJs\datatables.net-buttons\js\dataTables.buttons.min.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\datatableJs\datatables.net-dt\css\dataTables.dataTables.min.css
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\datatableJs\datatables.net-dt\License.txt
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\datatableJs\datatables.net-responsive-dt\css\responsive.dataTables.min.css
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\datatableJs\datatables.net-responsive-dt\js\responsive.dataTables.min.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\datatableJs\datatables.net-responsive\js\dataTables.responsive.min.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\datatableJs\datatables.net\js\dataTables.min.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\datatableJs\datatables.net\License.txt
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\jquery-validation\dist\additional-methods.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\jquery-validation\LICENSE.md
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\jquery\dist\jquery.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\jquery\dist\jquery.min.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\jquery\dist\jquery.min.map
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\jquery\dist\jquery.slim.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\jquery\dist\jquery.slim.min.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\jquery\dist\jquery.slim.min.map
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\jquery\LICENSE.txt
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\dist\sweetalert2.all.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\dist\sweetalert2.all.min.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\dist\sweetalert2.css
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\dist\sweetalert2.esm.all.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\dist\sweetalert2.esm.all.min.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\dist\sweetalert2.esm.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\dist\sweetalert2.esm.min.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\dist\sweetalert2.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\dist\sweetalert2.min.css
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\dist\sweetalert2.min.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\package.json
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\README.md
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\buttons-handlers.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\constants.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\globalState.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\instanceMethods.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\instanceMethods\close.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\instanceMethods\enable-disable-elements.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\instanceMethods\getInput.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\instanceMethods\hideLoading.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\instanceMethods\update.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\instanceMethods\validation-message.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\instanceMethods\_destroy.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\keydown-handler.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\popup-click-handler.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\privateMethods.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\privateProps.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\staticMethods.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\staticMethods\argsToParams.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\staticMethods\bindClickHandler.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\staticMethods\dom.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\staticMethods\eventHandlers.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\staticMethods\fire.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\staticMethods\mixin.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\staticMethods\showLoading.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\staticMethods\timer.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\SweetAlert.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\sweetalert2.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\types.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\utils\aria.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\utils\classes.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\utils\defaultInputValidators.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\utils\DismissReason.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\utils\dom\domUtils.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\utils\dom\getters.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\utils\dom\index.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\utils\dom\init.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\utils\dom\inputUtils.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\utils\dom\parseHtmlToContainer.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\utils\dom\renderers\render.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\utils\dom\renderers\renderActions.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\utils\dom\renderers\renderCloseButton.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\utils\dom\renderers\renderContainer.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\utils\dom\renderers\renderContent.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\utils\dom\renderers\renderFooter.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\utils\dom\renderers\renderIcon.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\utils\dom\renderers\renderImage.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\utils\dom\renderers\renderInput.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\utils\dom\renderers\renderPopup.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\utils\dom\renderers\renderProgressSteps.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\utils\dom\renderers\renderTitle.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\utils\draggable.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\utils\EventEmitter.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\utils\getTemplateParams.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\utils\iosFix.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\utils\isNodeEnv.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\utils\openPopup.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\utils\params.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\utils\scrollbar.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\utils\setParameters.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\utils\Timer.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\src\utils\utils.js
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\themes\bootstrap-4.css
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\themes\bootstrap-5.css
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\themes\borderless.css
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\themes\bulma.css
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\themes\embed-iframe.css
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\themes\material-ui.css
+E:\WorkSpaceAD\YOUTUBE\148 Crud asp.net mvc monolith\MyWebStore\MyWebStore\wwwroot\lib\sweetalert2\themes\minimal.css

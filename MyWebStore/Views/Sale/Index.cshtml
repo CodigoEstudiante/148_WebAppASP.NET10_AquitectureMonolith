@@ -1,0 +1,106 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<div class="row justify-content-between align-items-center mt-4">
+	<div class="col-6">
+		<h4>Sales</h4>
+	</div>
+	<div class="col-6 text-end">
+		<a href="/Sale/AddEdit" class="btn btn-success">Create new</a>
+	</div>
+</div>
+						
+<div class="card my-4">
+	<div class="card-body">
+		<table id="tbData">
+		</table>
+	</div>
+</div>
+
+@section Scripts{
+	<script>
+
+			let tbSales;
+
+		window.addEventListener("DOMContentLoaded", event => {
+			tbSales= $("#tbData").DataTable({
+				"ajax": {
+					"url":"/Sale/GetAll",
+					"type":"GET",
+					"datatype":"json",
+					"dataSrc":""
+				},
+				"proccessing":true,
+				"responsive":true,
+				"columns":[
+				 {title:"Sale Date", data:"saleDate"},
+				 {title:"Customer Name", data:"customerName"},
+				 {title:"Total Amount", data:"totalAmount", render:(data) => {return '$ ' + data.toFixed(2)}},
+				 {title:"", data:"saleId", width:"130px", render:(data) => {
+					 return `
+					  <button type="button" class="btn btn-sm btn-primary me-1" data-id=${data}>Edit</button>
+					  <button type="button" class="btn btn-sm btn-danger" data-id=${data}>Delete</button>
+					 `
+				 }}
+				],
+				columnDefs: [
+					{orderable:false,target:[3]},
+					{targets:'_all',className:"dt-left"}
+				],
+				layout:{
+					topStart:{
+						buttons:[
+							{ extend:"pageLength"},
+							{extend:"print", title:"Sales",exportOptions:{columns:[0,1,2]}}
+						]
+					}
+				}
+
+			})
+		
+		})
+
+
+		$("#tbData").on("click",".btn-primary",function(){
+			const saleId = $(this).data("id")
+
+			window.location.href = `/Sale/AddEdit?saleId=${saleId}`
+		})
+
+		$("#tbData").on("click",".btn-danger",function(){
+			const saleId = $(this).data("id")
+
+
+					Swal.fire({
+					  title: "Are you sure?",
+					  text: "You won't be able to revert this!",
+					  icon: "warning",
+					  showCancelButton: true,
+					  confirmButtonColor: "#3085d6",
+					  cancelButtonColor: "#d33",
+					  confirmButtonText: "Yes, delete it!"
+					}).then(async (result) => {
+						if(result.isConfirmed){
+							 const response = await fetch(`/Sale/Delete?SaleId=${saleId}` ,{
+								 method:'DELETE'
+							 })
+
+							 const result = await response.json();
+
+							 if(response.ok){
+								 tbSales.ajax.reload(null,false)
+							 }else{
+								  Swal.fire({
+									  text: result.message,
+									  icon: "error", timer: 1500,position:"top"
+									});
+							 }
+						}
+					});
+		
+		})
+</script>
+}

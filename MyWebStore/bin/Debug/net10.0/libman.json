@@ -1,0 +1,69 @@
+{
+  "version": "3.0",
+  "defaultProvider": "jsdelivr",
+  "libraries": [
+    {
+      "library": "avalynx-loader@1.0.2",
+      "destination": "wwwroot/lib/avalynx-loader/"
+    },
+    {
+      "provider": "unpkg",
+      "library": "sweetalert2@11.26.23",
+      "destination": "wwwroot/lib/sweetalert2/"
+    },
+    {
+      "provider": "unpkg",
+      "library": "datatables.net@2.3.7",
+      "destination": "wwwroot/lib/datatableJs/datatables.net/",
+      "files": [
+        "js/dataTables.min.js",
+        "License.txt"
+      ]
+    },
+    {
+      "provider": "unpkg",
+      "library": "datatables.net-dt@2.3.7",
+      "destination": "wwwroot/lib/datatableJs/datatables.net-dt/",
+      "files": [
+        "License.txt",
+        "css/dataTables.dataTables.min.css"
+      ]
+    },
+    {
+      "provider": "unpkg",
+      "library": "datatables.net-responsive@3.0.8",
+      "destination": "wwwroot/lib/datatableJs/datatables.net-responsive/",
+      "files": [
+        "js/dataTables.responsive.min.js"
+      ]
+    },
+    {
+      "provider": "unpkg",
+      "library": "datatables.net-responsive-dt@3.0.8",
+      "destination": "wwwroot/lib/datatableJs/datatables.net-responsive-dt/",
+      "files": [
+        "css/responsive.dataTables.min.css",
+        "js/responsive.dataTables.min.js"
+      ]
+    },
+    {
+      "provider": "unpkg",
+      "library": "datatables.net-buttons@3.2.6",
+      "destination": "wwwroot/lib/datatableJs/datatables.net-buttons/",
+      "files": [
+        "js/buttons.html5.min.js",
+        "js/buttons.print.min.js",
+        "js/dataTables.buttons.min.js"
+      ]
+    },
+    {
+      "provider": "unpkg",
+      "library": "datatables.net-buttons-dt@3.2.6",
+      "destination": "wwwroot/lib/datatableJs/datatables.net-buttons-dt/",
+      "files": [
+        "css/buttons.dataTables.min.css",
+        "js/buttons.dataTables.min.js"
+      ]
+    }
+  ]
+}
